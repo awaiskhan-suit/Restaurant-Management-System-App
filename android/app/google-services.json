@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045154420366",
+    "project_id": "essential-smoke-478611-v7",
+    "storage_bucket": "essential-smoke-478611-v7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045154420366:android:926d2d46e67bbd86329bdf",
+        "android_client_info": {
+          "package_name": "com.example.resturent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjog05AYc6j6PKTDutDdb3ztwlvwo9rpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
